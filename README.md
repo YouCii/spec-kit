@@ -140,6 +140,7 @@ Want to see Spec Kit in action? Watch our [video overview](https://www.youtube.c
 | [GitHub Copilot](https://code.visualstudio.com/)          | ✅ |                                                   |
 | [Gemini CLI](https://github.com/google-gemini/gemini-cli) | ✅ |                                                   |
 | [Cursor](https://cursor.sh/)                              | ✅ |                                                   |
+| [CoCo](https://github.com/Your-CoCo-Link) | ✅ | |
 | [Qwen Code](https://github.com/QwenLM/qwen-code)          | ✅ |                                                   |
 | [opencode](https://opencode.ai/)                          | ✅ |                                                   |
 | [Windsurf](https://windsurf.com/)                         | ✅ |                                                   |

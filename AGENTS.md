@@ -35,6 +35,7 @@ Specify supports multiple AI agents by generating agent-specific command files a
 | **Gemini CLI** | `.gemini/commands/` | TOML | `gemini` | Google's Gemini CLI |
 | **GitHub Copilot** | `.github/agents/` | Markdown | N/A (IDE-based) | GitHub Copilot in VS Code |
 | **Cursor** | `.cursor/commands/` | Markdown | `cursor-agent` | Cursor CLI |
+| **CoCo** | `.coco/` | Markdown | `coco` | CoCo CLI |
 | **Qwen Code** | `.qwen/commands/` | TOML | `qwen` | Alibaba's Qwen Code CLI |
 | **opencode** | `.opencode/command/` | Markdown | `opencode` | opencode CLI |
 | **Codex CLI** | `.codex/commands/` | Markdown | `codex` | Codex CLI |
